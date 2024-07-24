@@ -1,0 +1,96 @@
+# CHECKLIST PARA GERAR ARTIGOS DE QUALIDADE
+- [ ] Definir o assunto;
+- [ ] Título chamativo: headline;
+- [ ] Imagem de capa chamativa;
+- [ ] Blocos do artigo;
+- [ ] Postar o artigo com um call-to-action;
+
+## ASSUNTO:
+- Design responsivo
+
+## TÍTULO:
+"O Papel do Design Responsivo na Otimização da Experiência do Usuário"
+
+## CAPA:
+- Feita com o Lexica.art e PowerPoint
+
+## BLOCOS:
+
+Comporte-se como um escritor de artigos tech front-end e escreva o Artigo atendendo as regras abaixo
+
+{REGRAS}
+
+> No máximo 5 linhas por blocos de explicação
+> Me explique de maneira informal, como se eu fosse leiga
+> Os blocos que serão criados estão abaixo:
+- O que é experiência de usuário
+ - UI: User Interface
+ - UX: User Experience
+- O que é design responsivo
+- Como aplicar design responsivo no CSS
+ - Cite exemplos com códigos CSS
+- Otimizando a experiência de usuário com design responsivo
+- Faça um call to action para as minhas redes sociais
+- Coloque 3 hashtags que façam sentido
+
+Ilustração de capa: gerada pela Lexica.art
+Conteúdo: gerado pelo ChatGPT, pensado e revisado por uma humana
+
+
+## ARTIGO:
+
+Experiência de usuário: Entendendo a UX
+Experiência de usuário (UX) é sobre como os usuários se sentem ao interagir com seu site ou app. Se eles acham fácil, intuitivo e agradável de usar, você está no caminho certo. É como criar uma jornada sem obstáculos.
+
+UI: Visual é tudo!
+User Interface (UI) é a parte visual do seu site ou app. Inclui botões, cores, tipografia e layout. Pense nisso como a maquiagem e o estilo do seu projeto - tudo que o usuário vê e toca.
+
+UX: Navegação fluida
+User Experience (UX) é sobre a funcionalidade e a sensação de usar seu site ou app. Envolve navegação, acessibilidade e como os elementos interagem. É como garantir que a engrenagem do seu relógio funcione perfeitamente.
+
+Design responsivo: Um site que se adapta
+Design responsivo é quando seu site se adapta a diferentes tamanhos de tela, desde um smartphone até um desktop. Isso garante que todos os usuários tenham uma boa experiência, não importa o dispositivo que usam.
+
+Melhore a UX com Responsividade
+Com design responsivo, você melhora a UX ao garantir que seu site seja acessível e fácil de usar em qualquer dispositivo. Ajustar layouts, fontes e imagens dinamicamente ajuda a manter tudo claro e funcional.
+
+CSS Flexível: design responsivo no CSS
+Para aplicar design responsivo, usamos media queries no CSS. Aqui estão dois exemplos:
+
+Exemplo 1: Ajustar o tamanho da fonte
+
+css
+Copiar código
+body {
+  font-size: 16px;
+}
+
+@media (max-width: 600px) {
+  body {
+    font-size: 14px;
+  }
+}
+Exemplo 2: Alterar layout para telas menores
+
+css
+Copiar código
+.container {
+  display: flex;
+  flex-direction: row;
+}
+
+@media (max-width: 600px) {
+  .container {
+    flex-direction: column;
+  }
+}
+
+Conclusão/Agradecimentos
+
+Curtiu as dicas?
+Então segue minhas redes sociais para mais truques e novidades sobre desenvolvimento front-end! Vamos crescer juntos nessa jornada tech!
+
+Gerado por inteligência artificial. Pensado, estruturado e revisado 100% por uma humana!
+
+Hashtags
+#DesignResponsivo #UX #DesenvolvimentoWeb
